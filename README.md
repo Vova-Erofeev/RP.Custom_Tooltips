@@ -1,5 +1,7 @@
 # [Custom Tooltips](https://github.com/Vova-Erofeev/RP.Custom_Tooltips/wiki)
-- Добавляет вариации всплывающих подсказок на предметах
+
+> [!NOTE]
+> Добавляет вариации всплывающих подсказок на предметах
 
 ![Banner](https://github.com/Vova-Erofeev/RP.Custom_Tooltips/blob/main/repository/image.png)
 
