@@ -1,7 +1,7 @@
-# [Custom Tooltips](https://github.com/Slarof/RP.Custom_Tooltips/wiki)
+# [Custom Tooltips](https://github.com/Vova-Erofeev/RP.Custom_Tooltips/wiki)
 - Добавляет вариации всплывающих подсказок на предметах
 
-![Banner](https://github.com/IllagerMC/RP.Custom_Tooltips/blob/main/repository/image.png)
+![Banner](https://github.com/Vova-Erofeev/RP.Custom_Tooltips/blob/main/repository/image.png)
 
 ### Разработка
 | | Minecraft | Поддержка |
